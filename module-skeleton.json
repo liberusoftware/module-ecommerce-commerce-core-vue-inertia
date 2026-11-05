@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-commerce-core-vue-inertia",
+  "capabilityKey": "planned:ecommerce:commerce-core",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-commerce-core-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/commerce-core.md",
+  "presentationPlan": "projects/ecommerce/vue/commerce-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
